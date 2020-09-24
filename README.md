@@ -1,2 +1,2 @@
 # Demo
-Updated REadme on DEmo file to show syncing!
+Updated Readme on DEmo file to show syncing!
